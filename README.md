@@ -1,6 +1,6 @@
-# x.y - Template
+# 3.1 - Fondamenti di Elettronica
 
-Repository for "Template".
+Repository for "Fondamenti di Elettronica".
 
 
 ## Use instructions
